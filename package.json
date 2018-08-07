@@ -86,7 +86,7 @@
     "url-loader": "^1.0.1",
     "vue": "^2.5.16",
     "vue-jest": "^2.3.0",
-    "vue-loader": "^15.2.4",
+    "vue-loader": "15.2.6",
     "vue-server-renderer": "^2.5.16",
     "vue-style-loader": "^4.1.0",
     "vue-template-compiler": "^2.5.16",

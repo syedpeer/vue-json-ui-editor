@@ -59,7 +59,7 @@
     "chalk": "^2.3.2",
     "copy-webpack-plugin": "^4.5.2",
     "css-loader": "^0.28.0",
-    "element-ui": "^2.4.6",
+    "element-ui": "^2.4.7",
     "eslint": "^4.15.0",
     "eslint-config-guo": "^0.8.0",
     "eslint-friendly-formatter": "^4.0.1",
